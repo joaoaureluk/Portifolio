@@ -112,7 +112,6 @@ body * {
 
 .light #switch button{
 
-        
     right: 0;
     left: initial;
 }
@@ -149,7 +148,6 @@ ul li a:hover {
     background-color: var(--surface-color-hover);
     border: 2px solid var(--text-color);
 
-    
 }
 
 /*social links*/
