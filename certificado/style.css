@@ -28,8 +28,8 @@
 
 body {
     
-    background: var(--bg-url) no-repeat top center/cover;
-   
+    background: var(--bg-url) no-repeat top center/cover ;
+   height: 100vh;
 }
 
 body * {
@@ -181,4 +181,19 @@ footer{
     text-align: center;
     padding: 20px 0;
     font-size: 14px;
+}
+
+/* media queries hahahahaha */ 
+
+@media (min-width: 700px) {
+
+    :root{
+        --bg-url: url(assets/assets/bg-desktop.jpg) ;
+
+    }
+    .light{
+
+        --bg-url: url(assets/assets/bg-desktop-light.jpg) ;
+
+    }
 }
