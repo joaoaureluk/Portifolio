@@ -12,7 +12,7 @@
     --surface-color: rgba(255, 255, 255, 0.1) ;
     --surface-color-hover: rgba(255, 255, 255, 0.05) ;
     --high-light-color: rgba(128, 128, 128, 0.616) ;
-    --switch-tap-bg: url(assets/assets/moon-stars.svg) ;
+    --switch-tap-bg: url() ;
 }
 
 .light {
