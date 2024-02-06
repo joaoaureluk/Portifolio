@@ -1,14 +1,15 @@
-# Readme Para Portifolio 📜
+# Readme Para Portfólio 📜
 
-Bem-vindo(a) Fiz esse Portifolio com a ajuda da ROCKETSEAT para conseguir meu certificado!
-
-## Sobre mim! 💎
-
-Meu sonho é estar fincanceiramente bem trabalhando com oque eu gosto que no caso é programação.
-E eu irei conseguir isso!!
+Bem-vindo (a)! Fiz este portfólio com ajuda da ROCKETSEAT para ter meu certificado.
 
 
-## Imgens Para Visualização Previa 🎉
+## SOBRE MIM 💎
+
+Meu sonho é estar financeiramente bem, trabalhando com o que gosto, a programação. E eu irei conseguir isso!
+
+
+
+##  IMAGENS PARA VISUALIZAÇÃO PRÉVIA 🎉
 <H1>DARK MODE</H1>
 
 <img src="IMAGEN PARA README.png">
